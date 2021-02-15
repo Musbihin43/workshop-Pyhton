@@ -1,4 +1,4 @@
 # workshop-Pyhton
 
-Nama : Musbihin \n
+Nama : Musbihin
 NIM  : 185410043
